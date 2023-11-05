@@ -1,7 +1,7 @@
-(function () {
-    console.log('func exec')
-document.addEventListener('DOMContentLoaded', function () {
-    console.log('DOMContentLoaded')
+// (function () {
+//     console.log('func exec')
+// document.addEventListener('DOMContentLoaded', function () {
+//     console.log('DOMContentLoaded')
 
 /**
 * ==============================================
@@ -517,4 +517,4 @@ GALLERY_COUNTER++
 }
 })
 
-})();
+// })();
