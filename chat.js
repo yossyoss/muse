@@ -508,13 +508,13 @@ return true;
 
 // Function to perform an action when all images are loaded
 function onAllImagesLoaded() {
-console.log('All images have loaded');
-stopLoader();
-var imgGallery = document.querySelector(`.dy-muse-message-item.left.gallery[data-gallery-id="${GALLERY_COUNTER}"]`);
-imgGallery.classList.remove('hidden');
-GALLERY_COUNTER++
+    console.log('All images have loaded');
+    stopLoader();
+    var imgGallery = document.querySelector(`.dy-muse-message-item.left.gallery[data-gallery-id="${GALLERY_COUNTER}"]`);
+    imgGallery.classList.remove('hidden');
+    GALLERY_COUNTER++
 // Your code to do something after all images are loaded
 }
-})
+// })
 
 // })();
