@@ -253,7 +253,7 @@ function createGalleryItems(products){
             <div class="dy-muse-message-gallery-item-image">
                 <img height="202" width="158px" src="${product.imageUrl}" data-url="${product.link}" />
                     <div class="dy-muse-show-similiar-container">
-                        <svg class="dy-muse-show-similiar-svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg class="dy-muse-show-similiar-svg" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path class="dy-muse-show-similiar-path" fill-rule="evenodd" clip-rule="evenodd" d="M2.75 3C2.75 1.48122 3.98122 0.25 5.5 0.25H9.5C11.0188 0.25 12.25 1.48122 12.25 3V3.25H12.5C14.0188 3.25 15.25 4.48122 15.25 6V6.25H15.5C17.0188 6.25 18.25 7.48122 18.25 9V17C18.25 18.5188 17.0188 19.75 15.5 19.75H11.5C9.98122 19.75 8.75 18.5188 8.75 17V16.75H8.5C6.98122 16.75 5.75 15.5188 5.75 14V13.75H5.5C3.98122 13.75 2.75 12.5188 2.75 11V3ZM10.25 16.75V17C10.25 17.6904 10.8096 18.25 11.5 18.25H15.5C16.1904 18.25 16.75 17.6904 16.75 17V9C16.75 8.30964 16.1904 7.75 15.5 7.75H15.25V14C15.25 15.5188 14.0188 16.75 12.5 16.75H10.25ZM13.75 6C13.75 5.30964 13.1904 4.75 12.5 4.75H12.25V11C12.25 12.5188 11.0188 13.75 9.5 13.75H7.25V14C7.25 14.6904 7.80964 15.25 8.5 15.25H12.5C13.1904 15.25 13.75 14.6904 13.75 14V6ZM10.75 3V11C10.75 11.6904 10.1904 12.25 9.5 12.25H5.5C4.80964 12.25 4.25 11.6904 4.25 11V3C4.25 2.30964 4.80964 1.75 5.5 1.75H9.5C10.1904 1.75 10.75 2.30964 10.75 3Z" 
                             fill="white"/>
                         </svg>
